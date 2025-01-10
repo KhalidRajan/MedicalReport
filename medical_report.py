@@ -448,13 +448,4 @@ super_graph = super_graph.compile()
 
 
 
-# for s in super_graph.stream(
-#     process_user_query("Write a report on carcinogenic items, foods and products we encounter in our daily lives, and offer some suggestions for avoiding such carcinogens."),
-#     {'recursion_limit' : 30},
-# ):
-#     if "__end__" not in s:
-#         print(s)
-#         print("---")
-
-
 
