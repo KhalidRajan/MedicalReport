@@ -9,8 +9,6 @@ This project utilizes a multi-agent system to produce detailed medical reports b
 - [Installation](#installation)
 - [Usage](#usage)
 - [Screenshot](#screenshot)
-- [Technologies Used](#technologies-used)
-- [License](#license)
 
 ## Features
 
