@@ -40,7 +40,7 @@ To run the project locally, follow these steps:
 3. Run the Streamlit app:
 
     ```bash
-    streamlit run app.py
+    streamlit run medical_report_app.py  
 
 ## Usage
 
