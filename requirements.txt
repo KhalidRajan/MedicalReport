@@ -1,0 +1,8 @@
+langgraph==0.2.32
+langchain==0.2.14
+langchain-openai==0.1.23
+langchain-core==0.2.39
+langchain-community
+python-dotenv
+duckduckgo-search
+xmltodict 
