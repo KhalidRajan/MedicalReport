@@ -1,6 +1,6 @@
  # Medical Report Generator with Multi-Agent System
 
-This project utilizes a multi-agent system (MAS) to produce detailed medical reports based on user queries. The system includes a Streamlit-based front-end for user interaction and an agent-based back-end that processes queries to generate the desired reports.
+This project utilizes a multi-agent system to produce detailed medical reports based on user queries. The system includes a Streamlit-based front-end for user interaction and an agent-based back-end that processes queries to generate the desired reports.
 
 ## Table of Contents
 
